@@ -1,0 +1,6 @@
+{
+  "name": "LEGIO",
+  "description": "Aplicación oficial de la Legión de Cristo Rey para la unión fraterna, formación católica, eventos, noticias y directorio de miembros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

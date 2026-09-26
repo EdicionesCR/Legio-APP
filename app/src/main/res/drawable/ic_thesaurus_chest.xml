@@ -1,0 +1,26 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Antique treasure chest / cofre for Thesaurus -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M4,9C4,6.24 7.58,4 12,4C16.42,4 20,6.24 20,9V10H4V9Z" />
+    <path
+        android:fillColor="#C49B2F"
+        android:pathData="M3,10.5C3,10.22 3.22,10 3.5,10H20.5C20.78,10 21,10.22 21,10.5V12H3V10.5Z" />
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M4,12H20V19C20,19.55 19.55,20 19,20H5C4.45,20 4,19.55 4,19V12Z" />
+    <!-- Straps & lock of the chest -->
+    <path
+        android:fillColor="#5A4004"
+        android:pathData="M7,4.8C8.5,4.3 10.2,4 12,4C13.8,4 15.5,4.3 17,4.8V20H15V13H9V20H7V4.8Z" />
+    <path
+        android:fillColor="#3D1217"
+        android:pathData="M10.5,10.5H13.5V14.5H10.5Z" />
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M12,11.5C12.4,11.5 12.7,11.8 12.7,12.2C12.7,12.5 12.5,12.7 12.2,12.8V13.8H11.8V12.8C11.5,12.7 11.3,12.5 11.3,12.2C11.3,11.8 11.6,11.5 12,11.5Z" />
+</vector>

@@ -1,0 +1,222 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="240dp"
+    android:viewportWidth="200"
+    android:viewportHeight="240">
+
+    <!-- ================= CROWN (Corona Real Superior) ================= -->
+    <!-- Cruz superior de la corona -->
+    <path
+        android:fillColor="#E5C158"
+        android:strokeColor="#7B5306"
+        android:strokeWidth="0.8"
+        android:pathData="M98,6 H102 V11 H107 V15 H102 V22 H98 V15 H93 V11 H98 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M100,13 m-1.5,0 a1.5,1.5 0 1,0 3,0 a1.5,1.5 0 1,0 -3,0" />
+
+    <!-- Orbe / Globo de la corona -->
+    <path
+        android:fillColor="#E5C158"
+        android:pathData="M100,26 m-5,0 a5,5 0 1,0 10,0 a5,5 0 1,0 -10,0" />
+    <path
+        android:fillColor="#7B5306"
+        android:strokeWidth="0.8"
+        android:strokeColor="#7B5306"
+        android:pathData="M95,26 H105 M100,21 V31" />
+
+    <!-- Forro de terciopelo rojo de la corona -->
+    <path
+        android:fillColor="#751322"
+        android:pathData="M64,52 C64,36 80,30 100,30 C120,30 136,36 136,52 Z" />
+
+    <!-- Diademas / Arcos dorados con perlas -->
+    <!-- Arco central -->
+    <path
+        android:fillColor="#C49B2F"
+        android:pathData="M96,30 H104 V52 H96 Z" />
+    <!-- Arcos laterales -->
+    <path
+        android:fillColor="#E5C158"
+        android:strokeColor="#7B5306"
+        android:strokeWidth="0.6"
+        android:pathData="M64,52 C68,36 82,32 98,30 V35 C85,37 73,42 69,52 Z" />
+    <path
+        android:fillColor="#E5C158"
+        android:strokeColor="#7B5306"
+        android:strokeWidth="0.6"
+        android:pathData="M136,52 C132,36 118,32 102,30 V35 C115,37 127,42 131,52 Z" />
+
+    <!-- Perlas sobre los arcos de la corona -->
+    <path android:fillColor="#FFFFFF" android:pathData="M75,41 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path android:fillColor="#FFFFFF" android:pathData="M87,34 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path android:fillColor="#FFFFFF" android:pathData="M100,31 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path android:fillColor="#FFFFFF" android:pathData="M113,34 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+    <path android:fillColor="#FFFFFF" android:pathData="M125,41 m-2,0 a2,2 0 1,0 4,0 a2,2 0 1,0 -4,0" />
+
+    <!-- Florones de la corona (hojas de acanto doradas) -->
+    <path
+        android:fillColor="#F0D37A"
+        android:pathData="M61,52 L66,45 L71,52 L76,44 L81,52 L95,43 L100,52 L105,43 L119,52 L124,44 L129,52 L134,45 L139,52 Z" />
+
+    <!-- Cintillo / Aro base de la corona con pedrería -->
+    <path
+        android:fillColor="#D4A017"
+        android:pathData="M60,52 H140 V60 H60 Z" />
+    <path
+        android:fillColor="#8C1324"
+        android:pathData="M68,54 H74 V58 H68 Z" />
+    <path
+        android:fillColor="#156B3A"
+        android:pathData="M84,54 H90 V58 H84 Z" />
+    <path
+        android:fillColor="#8C1324"
+        android:pathData="M97,54 H103 V58 H97 Z" />
+    <path
+        android:fillColor="#156B3A"
+        android:pathData="M110,54 H116 V58 H110 Z" />
+    <path
+        android:fillColor="#8C1324"
+        android:pathData="M126,54 H132 V58 H126 Z" />
+
+    <!-- ================= ESCUDO HERALDICO ================= -->
+    <!-- Sombra exterior del escudo -->
+    <path
+        android:fillColor="#1A000000"
+        android:pathData="M41,63 H159 C159,145 146,183 100,214 C54,183 41,145 41,63 Z" />
+
+    <!-- Borde exterior dorado del escudo -->
+    <path
+        android:fillColor="#E5C158"
+        android:strokeColor="#7B5306"
+        android:strokeWidth="1.2"
+        android:pathData="M40,62 H160 C160,146 147,185 100,216 C53,185 40,146 40,62 Z" />
+
+    <!-- Filo interior oscuro del escudo -->
+    <path
+        android:fillColor="#4A3402"
+        android:pathData="M46,67 H154 C154,143 142,179 100,208 C58,179 46,143 46,67 Z" />
+
+    <!-- Campo / Interior del escudo (Rojo cardenalicio institucional) -->
+    <path
+        android:fillColor="#68101E"
+        android:pathData="M48,69 H152 C152,141 141,177 100,205 C59,177 48,141 48,69 Z" />
+
+    <!-- Partición / Rayos dorados de Cristo Rey (Corona solar divina) -->
+    <path
+        android:fillColor="#18E5C158"
+        android:pathData="M100,128 L50,85 L100,95 L150,85 L100,128 Z" />
+    <path
+        android:fillColor="#18E5C158"
+        android:pathData="M100,128 L50,140 L80,145 L100,128 Z" />
+    <path
+        android:fillColor="#18E5C158"
+        android:pathData="M100,128 L150,140 L120,145 L100,128 Z" />
+    <path
+        android:fillColor="#18E5C158"
+        android:pathData="M100,128 L75,185 L100,165 L125,185 L100,128 Z" />
+
+    <!-- Resplandor central -->
+    <path
+        android:fillColor="#30F0D37A"
+        android:pathData="M100,128 m-32,0 a32,32 0 1,0 64,0 a32,32 0 1,0 -64,0" />
+
+    <!-- Ráfagas / Rayos heráldicos dorados -->
+    <path
+        android:strokeColor="#C49B2F"
+        android:strokeWidth="1.2"
+        android:pathData="M100,92 V76 M100,164 V182 M64,128 H48 M136,128 H152 M76,104 L62,90 M124,104 L138,90 M76,152 L64,164 M124,152 L136,164" />
+
+    <!-- ================= EMBLEMA DE CRISTO REY ================= -->
+    <!-- Cruz Latina patada central en oro brillante -->
+    <!-- Brazo vertical de la Cruz -->
+    <path
+        android:fillColor="#F0D37A"
+        android:strokeColor="#7B5306"
+        android:strokeWidth="1"
+        android:pathData="M95,84 L93,82 H107 L105,84 V170 L107,172 H93 L95,170 Z" />
+
+    <!-- Brazo horizontal de la Cruz -->
+    <path
+        android:fillColor="#F0D37A"
+        android:strokeColor="#7B5306"
+        android:strokeWidth="1"
+        android:pathData="M72,112 L70,110 V124 L72,122 H128 L130,124 V110 L128,112 Z" />
+
+    <!-- Bisel / Brillo de la Cruz -->
+    <path
+        android:fillColor="#FFF4D0"
+        android:pathData="M98,84 H102 V170 H98 Z" />
+    <path
+        android:fillColor="#FFF4D0"
+        android:pathData="M72,115 H128 V119 H72 Z" />
+
+    <!-- Monograma Chi-Rho (☧) / XP de Cristo Rey entrelazado -->
+    <!-- Asta y bucle de la P (Rho) -->
+    <path
+        android:fillColor="#5A101C"
+        android:pathData="M96,96 H106 C112,96 116,100 116,106 C116,112 112,116 106,116 H96 Z" />
+    <path
+        android:fillColor="#F0D37A"
+        android:pathData="M98,98 H105 C109,98 113,101 113,106 C113,111 109,114 105,114 H98 Z" />
+    <path
+        android:fillColor="#68101E"
+        android:pathData="M100,102 H104 C106,102 108,103 108,106 C108,109 106,110 104,110 H100 Z" />
+
+    <!-- Aspas de la X (Chi) doradas -->
+    <path
+        android:strokeColor="#E5C158"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:pathData="M84,142 L116,114 M116,142 L84,114" />
+    <path
+        android:strokeColor="#FFF4D0"
+        android:strokeWidth="1.4"
+        android:strokeLineCap="round"
+        android:pathData="M84,142 L116,114 M116,142 L84,114" />
+
+    <!-- Alfa (A) y Omega (Ω) a los flancos de la Cruz -->
+    <path
+        android:strokeColor="#E5C158"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:pathData="M62,130 L66,120 L70,130 M63,127 H69" />
+    <path
+        android:strokeColor="#E5C158"
+        android:strokeWidth="1.8"
+        android:strokeLineCap="round"
+        android:fillColor="#00000000"
+        android:pathData="M130,130 H133 C133,124 137,120 140,120 C143,120 147,124 147,130 H150" />
+
+    <!-- Corona de espinas dorada rodeando el centro -->
+    <path
+        android:strokeColor="#C49B2F"
+        android:strokeWidth="1.2"
+        android:fillColor="#00000000"
+        android:pathData="M100,117 m-14,0 a14,14 0 1,0 28,0 a14,14 0 1,0 -28,0" />
+
+    <!-- ================= CINTA / LEMA INFERIOR ================= -->
+    <path
+        android:fillColor="#7B5306"
+        android:pathData="M52,216 L65,208 L65,224 Z M148,216 L135,208 L135,224 Z" />
+    <path
+        android:fillColor="#E5C158"
+        android:strokeColor="#7B5306"
+        android:strokeWidth="0.8"
+        android:pathData="M60,208 H140 C144,208 147,212 145,216 L142,224 C140,227 137,228 134,228 H66 C63,228 60,227 58,224 L55,216 C53,212 56,208 60,208 Z" />
+    <path
+        android:fillColor="#4A3402"
+        android:pathData="M64,212 H136 V213 H64 Z" />
+
+    <!-- Clavos / Remaches de la bordura del escudo -->
+    <path android:fillColor="#7B5306" android:pathData="M43,75 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+    <path android:fillColor="#7B5306" android:pathData="M43,105 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+    <path android:fillColor="#7B5306" android:pathData="M43,135 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+    <path android:fillColor="#7B5306" android:pathData="M48,165 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+    <path android:fillColor="#7B5306" android:pathData="M157,75 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+    <path android:fillColor="#7B5306" android:pathData="M157,105 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+    <path android:fillColor="#7B5306" android:pathData="M157,135 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+    <path android:fillColor="#7B5306" android:pathData="M152,165 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+    <path android:fillColor="#7B5306" android:pathData="M100,212 m-1.2,0 a1.2,1.2 0 1,0 2.4,0 a1.2,1.2 0 1,0 -2.4,0" />
+
+</vector>
